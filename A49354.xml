@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The loyal medal vindicated a poem.</title>
+         </titleStmt>
+         <extent>Approx. 27KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49354</idno><idno type="EEBO-CITATION">12986362</idno>
+  <idno type="VID">96195</idno>
+  <idno type="EEBO-PROQUEST">2248528443</idno>
+  
+            <idno type="STC">Wing L3354</idno>
+            <idno type="STC">ESTC R5419</idno>
+            <idno type="OCLC">12986362</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A49354)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96195)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 719:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The loyal medal vindicated a poem.</title>
+               </titleStmt>
+               <extent>[7], 12 leaves.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Janeway ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An answer to Dryden's "The medall", an attack on Shaftesbury.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Dryden, John, 1631-1700. --  Medall.</term>
+               <term type="personal_name">Shaftesbury, Anthony Ashley Cooper, --  Earl of, 1621-1683.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96195:1"/>
+            <pb facs="tcp:96195:1"/>
+            <p>THE LOYAL MEDAL VINDICATED. A POEM.</p>
+            <q>
+               <hi>Crescit sub pondere virtus.</hi>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>R. Janeway</hi> in <hi>Queens-Head</hi> Alley, 1682.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:96195:2"/>
+            <pb facs="tcp:96195:2"/>
+            <head>TO THE Disloyal Tories.</head>
+            <p>TO all I mean, except the Author of the Medal, for he being a Tory of two Editions, it seems impossible to appropriate his Ge<g ref="char:EOLhyphen"/>nius more to King <hi>Charles</hi> than <hi>Oliver Crom<g ref="char:EOLhyphen"/>well.</hi> And if <hi>Noll</hi> was so kind (though a sawcy Tenant) to leave him as a Heriot of the Muses unto whomsoever should pos<g ref="char:EOLhyphen"/>sess <hi>Whitehall,</hi> let none admire that he that could so Deifie an Usurper, does after<g ref="char:EOLhyphen"/>wards endeavour to expiate that Crime, by Torifying the Government of a Legal Monarch. And possibly he has been so happy, as to have been in both extreams rewarded accordingly.</p>
+            <p>It was a hard strain for <hi>Hugh Peters</hi> to have his Head pol'd on <hi>London-Bridge,</hi> and not a certain Poet bear him company, since they were both Inspir'd under the same <hi>Olivarian Phoebus.</hi> And if the first did san<g ref="char:EOLhyphen"/>ctifie a Monster in his Pulpit Prose; the latter paid his Devotion as fully on the same Subject in Rhime. Should he con<g ref="char:EOLhyphen"/>strue
+<pb facs="tcp:96195:3"/>
+               <pb facs="tcp:96195:3"/> this severe, he may take it as a small Return for the Reproachful Method by which he would expose the remembrance of this Incomparable Earl to a Spike on the top of the Tower. Or if any of his Tantivy Friends think this Retortion has not Veneration enough for a Person that has employed his Talent in their behalf (though he has that way most impudently traduced so many deserving Persons, by framing them into Actions, Things, and Methods below the Credit of any tollera<g ref="char:EOLhyphen"/>ble Invention) they may advance his Re<g ref="char:EOLhyphen"/>putation as they please, or according to some practical Zeal, permit that he Rail himself into Office Ecclesiastical or Civil. And doubtless he is such an Impropriator in point of Opinion, that he may be an<g ref="char:EOLhyphen"/>next to Church and State by any indiffe<g ref="char:EOLhyphen"/>rent Emolument.</p>
+            <p>He that would duly inspect the Soul of an Artificial Tory, must take him for one that is very prone to vitiate the Beauty of Religion, where he apprehends his Insinu<g ref="char:EOLhyphen"/>ations may pass with most facility.</p>
+            <p>Indeed he's but a Pander in Masquerade to the swarthy <hi>Roman</hi> Strumpet, nor can he more advantage Protestant Profession, than a comly Form can receive a reputati<g ref="char:EOLhyphen"/>on from the correspondency of a Pimp.</p>
+            <pb facs="tcp:96195:4"/>
+            <pb facs="tcp:96195:4"/>
+            <p>If a small dridging from Mrs. <hi>Cellier</hi>'s Meal-tub can serve to whiten men suffi<g ref="char:EOLhyphen"/>ciently for this service, no judicious man will envy such a Motly Interest, though they are as sharp set in devising a Prote<g ref="char:EOLhyphen"/>stant-Plot, as ever a <hi>Scotchman</hi> was to swal<g ref="char:EOLhyphen"/>low Oat-Cake.</p>
+            <p>Where they are most inveterate, to be sure it is against men of discretion, and such as will not allow the most formidable nonsense an easie passage to the sense of the People, whereby such as they please might be rendered Capital Delinquents. And this may be a main Reason why this Poetaster is so hot with Men of the <hi>Ignoramus</hi> Party.</p>
+            <p>But he may remember for his own sake, that such a judicious dozen would never miss finding of an Office for a Fool, as I suppose in their Apprehensions they may Judge somebody — but I spare him, until there may issue a Writ to that purpose, in behalf of <hi>Pernassus.</hi>
+            </p>
+            <p>In the mean time he may take what se<g ref="char:EOLhyphen"/>curity he can from the predominant Face of ridiculous Malice, that does not a lit<g ref="char:EOLhyphen"/>tle intoxicate men of his Complexion. If there were any thing on the account of the House of Commons tendred as an As<g ref="char:EOLhyphen"/>sociation against Popery, surely this were a weak foundation to bear the weight of
+<pb facs="tcp:96195:5"/>
+               <pb facs="tcp:96195:5"/> a Conspiracy to be erected against his Ma<g ref="char:EOLhyphen"/>jesty, or to assert on its bulk the big and odious Treasons imputed to the Earl of <hi>Shaftsbury,</hi> because such a proceeding was in order to its ultimate Confirmation from Royal Authority, together with the Man<g ref="char:EOLhyphen"/>ner of its impowring in the Intervals of Parliament, as whosoever shall impartially read the pretended Paper, and how it re<g ref="char:EOLhyphen"/>fers, may plainly apprehend.</p>
+            <p>But tho this Aerial Monster, call'd a Protestant Plot, is puff'd towards the <hi>Alps,</hi> in spite of all our Northern <hi>Banditi,</hi> that would even Out-law the Religion of their Nation, provided they might assure its belief: And this too by Insinuations suffi<g ref="char:EOLhyphen"/>ciently prepar'd for the gust of the Nation as occasion offers: And all to perplex or tacitely guide men to conceive that there was no real Popish Conspiracy, or so abate its credit, that it may drown in the Ocean of a pretended Protestant Contrivance. Yet certainly it will be very difficult by a<g ref="char:EOLhyphen"/>ny such Artifice to impose the wrong side of their Perspective on any unbiass'd ap<g ref="char:EOLhyphen"/>prehension. And to assure them farther, they may take it for an undoubted Maxim, That supposing all a Fiction that has been either done, or attested to be intended Po<g ref="char:EOLhyphen"/>pish Contrivements, nay more, were there
+<pb facs="tcp:96195:6"/>
+               <pb facs="tcp:96195:6"/> neither Priest, Jesuite, nor Papist in the Na<g ref="char:EOLhyphen"/>tion, yet so long as there is a conception of a Papist in the Succession, this alone shall enough confirm the most judicious, that there has been extant a superlative <hi>Romish</hi> Design, it being highly improbable that an Opinion so prejudicial to the Interest of the Nation, could be in such a person by any other Measures produced.</p>
+            <p>I have no more to say to him, and his <hi>To<g ref="char:EOLhyphen"/>ry Friends,</hi> by way of Argument; but rather greet him in Conclusion as Poetically as he can pretend to deserve.</p>
+            <p>He tells us in his latter end of his Preface of a Divine that undertook to confute his Poem, <hi>Absalom</hi> and <hi>Achitophel,</hi> from Texts of Scripture, when he might have done it with far less Labour, or as a Doctor of <hi>Oxford</hi> said, in opposition to somewhat a greater Clerk, <hi>Bellarmine thou liest.</hi> And I suppose this Author must have granted the Epi<g ref="char:EOLhyphen"/>thete of <hi>Saucy Jack</hi> that way, since none are bolder Lyers, and no less egregious Thieves than such as plunder mens Fames, and next expose such Thefts, by the Brocage of an Impression, unto Publick Sale.</p>
+            <p>But the Good Man it seems mistook his Adversary, who tells us in his Poem his apprehensions of Priest-craft, in opposi<g ref="char:EOLhyphen"/>tion
+<pb facs="tcp:96195:7"/>
+               <pb facs="tcp:96195:7"/> to Poligamy of Love; which was no small assurance that the best Wit of Scri<g ref="char:EOLhyphen"/>pture would be lost on such a perswasion. And yet he is not thought so much an E<g ref="char:EOLhyphen"/>nemy to some Sacerdotal Craft, now go<g ref="char:EOLhyphen"/>ing, as not to commit it to Rhime, provi<g ref="char:EOLhyphen"/>ded he be paid for the Musick.</p>
+            <p>If to credit his Compositions, he did a<g ref="char:EOLhyphen"/>vow that he has been oppos'd with little Wit formerly, to be sure he will pretend to the same Confidence in respect of this Answer, and if he does, he may the more safely provoke a Reply, or rub his Fore<g ref="char:EOLhyphen"/>head, and gravely contemn it. It being alike Concern to the Author, whatsoever he shall determine either as to Ingenuity or Conscience.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:96195:8"/>
+            <pb n="1" facs="tcp:96195:8"/>
+            <head>THE LOYAL MEDAL VINDICATED.</head>
+            <lg>
+               <l>IF nothing can the Worth of Men excuse,</l>
+               <l>When meanly blasted by a skulking Muse,</l>
+               <l>If what's against Humanity and Sense,</l>
+               <l>Finds from the World an horrid Complaisance,</l>
+               <l>If one must flout another's Mold or Face,</l>
+               <l>Because Discretion there has ancient place;</l>
+               <l>Then let thy Hireling-Verse such Fictions raise,</l>
+               <l>As long may fatten thy desertless Praise.</l>
+               <l>But may Heaven stay thy much Licentious Pen,</l>
+               <l>When to spite Faces thou shalt write again,</l>
+               <l>Lest thou thy Soveraign's Image next shouldst stain,</l>
+               <l>Since Looks and Men thou dar'st traduce for Gain.</l>
+               <l>And all t'allow thy Forehead so much Brass,</l>
+               <l>As stiles thee there a stigmatized Ass:</l>
+               <l>Whilst even the Image that's abus'd by thee</l>
+               <l>Exalts the Worth of its Epitome:</l>
+               <l>And in the Life, to wonder, does contain</l>
+               <l>A Soul infeebled by its Bodies pain,</l>
+               <l>As if in him alone Heaven had design'd</l>
+               <l>Most to exempt Infirmity of Mind.</l>
+               <pb facs="tcp:96195:9"/>
+               <pb n="2" facs="tcp:96195:9"/>
+               <l>Some that to Hero's past gave mighty Frame,</l>
+               <l>To wondrous Bulks allow'd their <hi>Humane</hi> Frame;</l>
+               <l>But had thy much in little been their Toyle,</l>
+               <l>Thy Gyant Soul had more inlarg'd their Style:</l>
+               <l>So hard a Task for Nature to convey,</l>
+               <l>She can but Limb thy Spirit in her Clay.</l>
+               <l>The Artist that so strictly did comply</l>
+               <l>To give thy Wise remembrance to our Eye,</l>
+               <l>Did only miss what Figure cannot show</l>
+               <l>In that Compendium representeth you:</l>
+               <l>As 'tis to Skill stupendious to impart</l>
+               <l>What the Soul's Life in you requires from Art.</l>
+               <l>Unkinder Men that spightfully admit</l>
+               <l>The horrid Untruths of mistaken Wit:</l>
+               <l>Judging they add unto their Vulgar Cheat,</l>
+               <l>If they can Merit by low Frauds abate:</l>
+               <l>In <hi>Fear</hi> the <hi>World</hi> should throw off their disguise,</l>
+               <l>And see with Reasons and Compassions Eyes,</l>
+               <l>A just discernment from the many due,</l>
+               <l>Tho' but the Talent of the Wiser few:</l>
+               <l>Whilst with a Brave Assurance you dispense</l>
+               <l>To leave to scorn such hated Impudence.</l>
+               <l>What strength of Verse sufficient is to raise</l>
+               <l>The steady Greatness that assures thy Praise!</l>
+               <l>Law it secur'd in spight of strong Design,</l>
+               <l>Or Fierce Assaults a Tripple League could joyn;</l>
+               <l>Heaven did deter thou shouldst be ruin'd so,</l>
+               <l>And shew'd thy value in thy safety too.</l>
+               <l>What then remains for Measures to set forth,</l>
+               <l>More than to clear the outside of thy Worth!</l>
+               <pb facs="tcp:96195:10"/>
+               <pb n="3" facs="tcp:96195:10"/>
+               <l>Which though a Pen endeavour'd to defile</l>
+               <l>Thy Image, so far we'll presume to file.</l>
+               <l>The man of Meteor that did much combine</l>
+               <l>To help the feigning of a bad Design,</l>
+               <l>And in his Mock <hi>Achitophel</hi> did plod</l>
+               <l>To gain some <hi>Tories</hi> gracious Smile or Nod;</l>
+               <l>Which might have been, if with the Jury Toyes,</l>
+               <l>He'ad feign'd <hi>Goliah</hi> then at Trap with Boyes.</l>
+               <l>As 'tis an odd Ridicule that complies</l>
+               <l>To grant what is Incongruous in Lies.</l>
+               <l>How sensless Wicked are the fram'd Intrigues,</l>
+               <l>Thy Foolish Rhime Associates into Leagues:</l>
+               <l>Yet even this <hi>Earl</hi> thou mak'st thy <hi>Trumpets</hi> voice,</l>
+               <l>To sound Sedition by thy Windy Choice.</l>
+               <l>And by this Call, Great <hi>Monmouth</hi> dar'st awake</l>
+               <l>To own the Property which thou dost make:</l>
+               <l>Then bring'st them into deep Consult and Tale,</l>
+               <l>How this or that vain Fiction may avail.</l>
+               <l>How that <hi>Duke</hi> may a spruce <hi>Knight</hi>-Errand show,</l>
+               <l>And vent <hi>Chimera</hi>'s may the King undo.</l>
+               <l>Then Cajole Crowds by some such <hi>specious Knack,</hi>
+               </l>
+               <l>As thy Prince <hi>Noll</hi> was made a Publick Quack:</l>
+               <l>Then clap a Crown upon his Head by chance,</l>
+               <l>Against the Power of Successor, or <hi>France.</hi>
+               </l>
+               <l>Then Sheriffs, Juries, and the Prudent City,</l>
+               <l>Design'd, as thou call'st, Silly Traytors, Witty.</l>
+               <l>And all this to invite Men to deplore</l>
+               <l>The very <hi>Mouth-Guns</hi> which thou mad'st to roare:</l>
+               <l>Which may assure thee that no Partial Jest,</l>
+               <l>Convey'd thy open Scandals to our Test.</l>
+               <pb facs="tcp:96195:11"/>
+               <pb n="4" facs="tcp:96195:11"/>
+               <l>Tho' much th' inveiglest dangers to the State,</l>
+               <l>Tho' Wit thou filchest, and much didst translate;</l>
+               <l>Tho' many Traytors thou of men dost make,</l>
+               <l>That love Religion for Religion's sake;</l>
+               <l>Their Laws and Nation, as best Subjects should,</l>
+               <l>Are not Impress'd by Arbitrary Mold:</l>
+               <l>And must from all this just Confession bring,</l>
+               <l>That none need say <hi>from These God save the King.</hi>
+               </l>
+               <l>Mayn't Time yield largely this to be confest</l>
+               <l>By some Abhorrencies, not yet Addrest:</l>
+               <l>Such as may purge the artificial Dirt</l>
+               <l>That Impious Pens and Counsels daily flirt:</l>
+               <l>Or, to uphold a State-trick, dare Conspire</l>
+               <l>How men may perjure often by their Hire:</l>
+               <l>And next against Humanity comply,</l>
+               <l>That Fame and Person shall together die.</l>
+               <l>If such were <hi>Shaftsburies</hi> deliberate Foes,</l>
+               <l>As much in likeness their bad story goes;</l>
+               <l>Well might the People shouts and gladness join,</l>
+               <l>To see him clear'd, in spight of vile Design:</l>
+               <l>They saw the Harpies did upon him wait,</l>
+               <l>Their Talons stain'd in Blood of modern date:</l>
+               <l>And those perhaps could Presidents produce</l>
+               <l>Of men that guiltless dyed for publick use.</l>
+               <l>As doubtless 'tis a Knack of vast pretence,</l>
+               <l>That cheats the common with a private sense:</l>
+               <l>Or from a specious Practice carried on,</l>
+               <l>Colours undoing for fear of being undone:</l>
+               <l>Which anxious thought so rest less renders <hi>Time,</hi>
+               </l>
+               <l>Contrives to fall with such could tax the Crime.</l>
+               <pb facs="tcp:96195:12"/>
+               <pb n="5" facs="tcp:96195:12"/>
+               <l>Whence oblique Statists seem, by maxim taught,</l>
+               <l>To lop the Head that best discerns their fault.</l>
+               <l>If Laws Tribunal need no force from Art,</l>
+               <l>Or short Rob'd-<hi>Bravo</hi> that o're-bawls his part;</l>
+               <l>Much wonder 'tis how some deform its Look</l>
+               <l>With so much Waxen Nose unlimb'd, from Book,</l>
+               <l>Which handled quaintly by some Gowned Peer,</l>
+               <l>Most Puppet-like, 'tis wriggled here and there.</l>
+               <l>Though sure Mans Reason never understood</l>
+               <l>How dubious Cavils aim at Publick Good;</l>
+               <l>Or that Law should so odd a Kernel close,</l>
+               <l>As <hi>Jeffery</hi>'s Noise, instead of Nutcrack shows;</l>
+               <l>Or <hi>Sanders,</hi> that for Charters bids so fair,</l>
+               <l>'Gainst next Kings time, or Justice sits in <hi>Eyre.</hi>
+               </l>
+               <l>Great <hi>Tully,</hi> who, 'tis said, had Brain as big</l>
+               <l>As any <hi>Tory</hi> Advocate, or <hi>Whigg,</hi>
+               </l>
+               <l>Confess'd he did stupendiously behold,</l>
+               <l>How deeds of <hi>Augurs</hi> were to <hi>Augurs</hi> told;</l>
+               <l>And not the Men ingenuously admit,</l>
+               <l>That laughter well might greet their doubtful Wit.</l>
+               <l>So of the short-Robe most can truly say,</l>
+               <l>Their many puzzels cast much Sense away:</l>
+               <l>Tho' we'll not farther here pursue this Text,</l>
+               <l>Lest they should mock themselves when they plead next.</l>
+               <l>And tho wise <hi>Shaftsbury</hi> has found a Loop</l>
+               <l>(Which some call <hi>Ignoramus</hi> by a Trope)</l>
+               <l>To pass the Files of this destroying Robe,</l>
+               <l>Tho broad's their Figure in our <hi>English</hi> Globe.</l>
+               <l>Yet all this done, and nothing brought to pass,</l>
+               <l>Worth any Clerks Record, or studied Ass.</l>
+               <pb facs="tcp:96195:13"/>
+               <pb n="6" facs="tcp:96195:13"/>
+               <l>Tantivy Levites still their heats apply,</l>
+               <l>Admiring in Church-Sense he did not dye.</l>
+               <l>Since they observ'd he never would Intrigue</l>
+               <l>How to maintain at home a <hi>Roman</hi> League;</l>
+               <l>Or yield that Motly Faith should so prevail,</l>
+               <l>As Superstition would design its Vail.</l>
+               <l>From whence enrag'd, they <hi>Pulpit-Cushions</hi> beat,</l>
+               <l>(The small Earl sure had dy'd with Blows less Great)</l>
+               <l>And in their Pious Choller much enlarge,</l>
+               <l>How Holy in their Sense appear'd his Charge.</l>
+               <l>Or ought to be believ'd, 'twixt fit and just,</l>
+               <l>If long and short-Roab'd Men have Souls of Trust.</l>
+               <l>Yet such when warp'd will alwayes so decide,</l>
+               <l>As Faith and Law may with them lean aside.</l>
+               <l>Who'd not the Conduct of this <hi>Earl</hi> call great,</l>
+               <l>That could Designs Intrigu'd like these defeat:</l>
+               <l>And with a Conscience too, so far unstain'd,</l>
+               <l>The Verdict lessen'd what within he gain'd?</l>
+               <l>Well might he wish his Breast Transparent were,</l>
+               <l>That his worst Foes might see his Figure there:</l>
+               <l>And by Inspection forc'd to yield the Lie,</l>
+               <l>And foolish Guilt of their Conspiracy:</l>
+               <l>For never Man to Ruine was Design'd,</l>
+               <l>Where Malice with less Circumspection joyn'd.</l>
+               <l>The Fiend that reach'd to God's forbdden Tree,</l>
+               <l>And gave Man thence the Sweets of Misery;</l>
+               <l>Added allurements to his shaken Will</l>
+               <l>Of being more wisely Great, in being Ill.</l>
+               <pb facs="tcp:96195:14"/>
+               <pb n="7" facs="tcp:96195:14"/>
+               <l>Which like the Guilt, that most infects his Race,</l>
+               <l>Found in his clearer Sense an erring Place.</l>
+               <l>But had the Devil with his Assault then joyn'd</l>
+               <l>Some Imps Gross Oath, to aid what he Design'd,</l>
+               <l>Our first great Parent might have scap'd his fall,</l>
+               <l>Or had this Peer been him, he'ad sav'd us all.</l>
+               <l>As 'tis a God-like Confidence that can</l>
+               <l>Assure, by Wisdom, Guiltless Fame to Man.</l>
+            </lg>
+            <lg>
+               <l>Who'd of this Poetaster then complain,</l>
+               <l>Or that Curs bark at sublime things in vain:</l>
+               <l>Tho none e're held, when such the Moon did Bay,</l>
+               <l>That she less steady seem'd in her Bright Way.</l>
+               <l>And next let them advance their Paper Kite,</l>
+               <l>Th Association, none know who did Write.</l>
+               <l>Let them Abhorrence form, then spread the Cry</l>
+               <l>To such think noise of Treason cannot lye:</l>
+               <l>For as ('tis Jok'd) the Holy Ghost was sent</l>
+               <l>By most in Sacred Cloak-bag unto <hi>Trent:</hi>
+               </l>
+               <l>So Fame assures that <hi>Tories</hi> near at hand</l>
+               <l>Convey this Sacred Trifle through the Land.</l>
+               <l>And this quick Jobb, forc'd by such Plodders on,</l>
+               <l>Must call to count, forgiven Forty One.</l>
+               <l>By which endeavour of such heatful Men,</l>
+               <l>Affairs are postur'd now as some were then:</l>
+               <l>Yet to the present no more like can be,</l>
+               <l>Than things that by their Essence disagree.</l>
+               <l>Which well computed duly does declare</l>
+               <l>How false the fram'd account of others are.</l>
+               <l>Though <hi>English</hi> Blood be pronely apt to Boil</l>
+               <l>From the high Ferment of its Nations Soil:</l>
+               <pb facs="tcp:96195:15"/>
+               <pb n="8" facs="tcp:96195:15"/>
+               <l>Fierce in Extreams, if heightned to be so,</l>
+               <l>And when it cools it gently cooleth too.</l>
+               <l>No People strictlier their Allegiance prove,</l>
+               <l>When guided by the Helm of Laws and Love.</l>
+               <l>And tho they've often Revolutions had</l>
+               <l>Of Ancient Cast, and Modern vilely bad;</l>
+               <l>Which did to such perplexities relate,</l>
+               <l>They seem'd th' extreams and intricace of Fate;</l>
+               <l>Yet none had e're more difficult to compose,</l>
+               <l>Than what is granted now their Popish pose;</l>
+               <l>And 'tis to best State-Criticks yet unknown,</l>
+               <l>How <hi>Rome</hi> can add a Jewel to our Crown;</l>
+               <l>Or how the Soul, when guided in that Path,</l>
+               <l>Can be enthron'd <hi>Defender of our Faith.</hi>
+               </l>
+               <l>For as the Souls of Princes needs must be</l>
+               <l>Best Props of Subjects Faith and Liberty;</l>
+               <l>So when all these their different Measures shew.</l>
+               <l>Who'd not deplore the Fate may thence ensue?</l>
+               <l>Our Royal <hi>Henry</hi> who did first defie</l>
+               <l>The Triple Guilt of <hi>Rome</hi>'s Soveraignity,</l>
+               <l>And in that mighty Act appear'd more great</l>
+               <l>Than all before possess'd his Glorious Seat:</l>
+               <l>As what can Heaven so great to King dispence,</l>
+               <l>As when his Title's rais'd to Faith's Defence?</l>
+               <l>How might his Ashes blush, if of his mind</l>
+               <l>Cinders with Princely Dust were left behind:</l>
+               <l>Since <hi>Rome,</hi> despis'd by him, attempts to raise</l>
+               <l>The scatter'd Ruines of her impious days?</l>
+               <l>And tho no Subjects Deeds such Greatness claim</l>
+               <l>As more peculiar is to Kingly Fame,</l>
+               <pb facs="tcp:96195:16"/>
+               <pb n="9" facs="tcp:96195:16"/>
+               <l>Yet next to that we may Encomiums give</l>
+               <l>To such as most our now Defenders live.</l>
+               <l>With whom thy Figure <hi>Shaftsbury</hi> we'll own,</l>
+               <l>Clear in thy Soul and thy Religion shown,</l>
+               <l>Remembrance far more lasting is thy due,</l>
+               <l>Than what thy Image seen in Steel can shew,</l>
+               <l>Time may in course decay that by its powers,</l>
+               <l>With what dependence has on Wings of Hours.</l>
+               <l>Yet when it so does thy Oblivion see,</l>
+               <l>Fame must preserve more lasting Steel for thee.</l>
+               <l>Usurped Powers that did our Nation guide,</l>
+               <l>Thou didst for <hi>God</hi>'s sake and our <hi>King</hi>'s divide,</l>
+               <l>And by <hi>thy Wit</hi> gain'dst him the stronger side.</l>
+               <l>Wit, that <hi>Briarius</hi> Hands dost best dispose,</l>
+               <l>(Or Crowds or Armies representing those)</l>
+               <l>Thy sense so practically did convey,</l>
+               <l>As Thou for <hi>Monk,</hi> some tell, didst get the day:</l>
+               <l>Nor does it render his Atchievment less,</l>
+               <l>If thought, with Thine, his Counsels had success.</l>
+               <l>Well might distractions yieldingly comply</l>
+               <l>To such a <hi>Mars,</hi> and thou his <hi>Mercury:</hi>
+               </l>
+               <l>'Twere endless to recount what strange <hi>Intrigues</hi>
+               </l>
+               <l>Of Armies heighten'd by <hi>Clandestine Leagues,</hi>
+               </l>
+               <l>Thy Wisdom pierc'd, with such advantage too,</l>
+               <l>As thy Sense levell'd all they thought to do.</l>
+               <l>Nay from their stiffer Conscience didst obtain</l>
+               <l>An easie yielding to our Soveraign's Reign.</l>
+               <l>This might commend thy Figure by Decree,</l>
+               <l>To live with Kings and <hi>English</hi> Memory:</l>
+               <l>But Modern Tales so Artfully are made,</l>
+               <l>That ancient Merit first aside is laid.</l>
+               <pb facs="tcp:96195:17"/>
+               <pb n="10" facs="tcp:96195:17"/>
+               <l>Tho Souls of Princes most conspicuous shine,</l>
+               <l>That longest Grace to past deserts assign:</l>
+               <l>And make it to the World serenely known,</l>
+               <l>They are too great to be ingrateful shown.</l>
+               <l>If few their Royal Masters this advise,</l>
+               <l>'Tis because they are thankless or unwise:</l>
+               <l>Or judge it fits some Princes Humour best,</l>
+               <l>When Merit from their Perspective is least.</l>
+               <l>And in this narrow Conduct next conspire</l>
+               <l>How by depressing others to rise higher.</l>
+               <l>No pitch of Glory is from Malice free,</l>
+               <l>Till Man above keeps Angels company.</l>
+               <l>Some that Similitudes to Courts will strain</l>
+               <l>(Or Superstitions that way best maintain)</l>
+               <l>Sweeten their Earthly Figures so to men,</l>
+               <l>As if their Paradise did bloom again:</l>
+               <l>Or that the Pageant Glory of their Sphere</l>
+               <l>Could guild the <hi>Mischiefs</hi> somtimes <hi>growing</hi> there.</l>
+               <l>And 'tis perhaps their sense, because they prize</l>
+               <l>The Beams shed there by Womens <hi>Charming Eyes;</hi>
+               </l>
+               <l>And that they don't perceive the <hi>treacherous Snake,</hi>
+               </l>
+               <l>With all the <hi>Glides</hi> and <hi>Changes</hi> it does make:</l>
+               <l>Or else 'tis Paradise, they mean, revers'd;</l>
+               <l>Where Innocence may fall, or be aspers'd,</l>
+               <l>And our first Father's Glory so excell,</l>
+               <l>As that a <hi>lapse</hi> ensues for <hi>doing well.</hi>
+               </l>
+               <l>Great <hi>Essex</hi> thus, and Noble <hi>Sunderland,</hi>
+               </l>
+               <l>After beheld the Serpents Tongue and Hand,</l>
+               <l>And tempting Fruit of <hi>Rome</hi>'s forbidden Tree</l>
+               <l>Declin'd, because their Tastes did disagree.</l>
+               <pb facs="tcp:96195:18"/>
+               <pb n="11" facs="tcp:96195:18"/>
+               <l>These that from such Great Fathers did descend,</l>
+               <l>That liv'd so Loyal, and so brave did end:</l>
+               <l>Such that to aid their Soveraign did bestow</l>
+               <l>All that their <hi>Blood</hi> and Worldly help could do.</l>
+               <l>And what continues Glory to their Name,</l>
+               <l>An Issue left, as live all to their Fame:</l>
+               <l>Yet 'twixt them and their Lineage seems to be</l>
+               <l>Not less Fame's Riddle than Diversity.</l>
+               <l>For what to Men more various wonder brings,</l>
+               <l>Than when one Duty cannot serve two Kings.</l>
+               <l>And this approves the Case of these Great Peers,</l>
+               <l>Whose Faith and Virtue no man justly fears:</l>
+               <l>True Greatness then declines to joyn its part,</l>
+               <l>Where <hi>Conscience</hi> must too <hi>tamely</hi> guide the Heart.</l>
+               <l>Then <hi>Essex,</hi> let it add to thy Renown,</l>
+               <l>Thou dist thy Interest less than Duty own.</l>
+               <l>No humorous discontent thy Soul inclin'd</l>
+               <l>To leave the Court, but greatness of thy Mind.</l>
+               <l>And what, like thee conspicuous, few have done,</l>
+               <l>Left unto others hopes the rising Sun:</l>
+               <l>With such their <hi>Faith</hi> could <hi>swerve,</hi> and next <hi>agree</hi>
+               </l>
+               <l>Their Conduct to its Excentricitie:</l>
+               <l>Great <hi>Capel</hi>'s Spirit sure had done the same,</l>
+               <l>Had he liv'd now, to add unto his Fame.</l>
+               <l>Thus many Nobles, <hi>Shaftsbury,</hi> comply</l>
+               <l>To aid thy firmest strength and Constancy:</l>
+               <l>They saw how <hi>clear</hi> thy <hi>Souls</hi> bright <hi>Steel</hi> must <hi>last,</hi>
+               </l>
+               <l>After refin'd by such endurance past.</l>
+               <l>Had <hi>Hercules</hi> so Fam'd Assistance knew</l>
+               <l>His Great Atchievments had more equal'd you.</l>
+               <pb facs="tcp:96195:19"/>
+               <pb n="12" facs="tcp:96195:19"/>
+               <l>Designs of Foes could compass his Great fall,</l>
+               <l>Thou hadst more <hi>numerous,</hi> yet <hi>withstoodst</hi> them all.</l>
+               <l>Nor canst thou fall by any stress of Fate,</l>
+               <l>But vaster <hi>Ruines</hi> thence must ground their <hi>date.</hi>
+               </l>
+               <l>
+                  <hi>London,</hi> that to a Second <hi>Troy</hi> aspir'd,</l>
+               <l>Tho Foes and Flames had first her end <hi>conspir'd;</hi>
+               </l>
+               <l>Must on its firmest Glories doubtful stand,</l>
+               <l>If lost (in thee) her wisest helping Hand.</l>
+               <l>And doubtless ancient <hi>Ilium</hi> might have stood</l>
+               <l>Longer from such a Force than <hi>Hector</hi>'s Blood.</l>
+               <l>No strokes of Fortune bring thy <hi>Genius</hi> lower,</l>
+               <l>Or Weights so heavy that depress its power,</l>
+               <l>What could <hi>Heaven</hi> add to <hi>strength of Prudence</hi> more</l>
+               <l>Yet Fortune so far vanquish'd is by thee,</l>
+               <l>That none thy Wisdom do successless see:</l>
+               <l>Or such a Labyrinth that wants a Clew,</l>
+               <l>Whilst still the Threed's so fitly spun by you:</l>
+               <l>When future Time Invention strives to give,</l>
+               <l>By which your Memory may longest live,</l>
+               <l>Fame must be pos'd, unless you shall admit</l>
+               <l>To leave your Image written by your Wit.</l>
+               <l>Yet still by you Memoirs are so design'd,</l>
+               <l>Your Medal does oblige, in which we find</l>
+               <l>The outward Graces of so firm a Mind.</l>
+               <l>Tho in this Gift best Protestants allow,</l>
+               <l>They're tempted even to Superstition too:</l>
+               <l>As hard 'tis such a Patriot to admire,</l>
+               <l>And not, than <hi>Common man,</hi> to grant him higher.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
